@@ -1,5 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+import spotipy.util as util
 import pandas as pd
 import requests
 import re
@@ -8,12 +9,11 @@ import csv
 import sqlite3
 import json
 
+sp = spotipy.Spotify()
 cid = 'd1ffc95abeed474dbdcbf9c8b076075f'
 secret = 'f7c5e4b25b5d4b1fa26ef7089d57acfa'
-spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
-
-#not sure about the following line
-#sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager) 
 
 def setUpDatabase(db_name):
     """Takes the name of a database, a string, as an input. Returns the cursor and connection to the database."""
@@ -24,6 +24,16 @@ def setUpDatabase(db_name):
 
 def get_spotify_top_tracks_of_2020():
     """No inputs. Returns a list of tuples in the format (song, artist) using playlist 'Top Tracks of 2020 USA'."""
+    playlist_id = "5ABHKGoOzxkaa28ttQV9sE"
+    playlist = sp.playlist(playlist_id, fields=None, market=None, additional_types=('track', ))
+    tracks = playlist['tracks']['items']
+    tracks_info = []
+    for item in tracks:
+        title = item['track']['name']
+        artist = item['track']['album']['artists'][0]['name']
+        info = title, artist
+        tracks_info.append(info)
+    print(tracks_info)
 
 def get_song_popularity(song, artist):
     """Take song and artist from the previous function as inputs. Go to artist's page on Spotify, find the matching song title, and return a tuple of the (song, artist, number_of_streams)."""
@@ -36,7 +46,7 @@ def set_up_tables(cur, conn):
     conn.commit()
 
 def fill_spotify_table(cur, conn):
-"""Takes the database cursor and connection as inputs. Does not return anything. Fills in the Spotify table with songs and their artist_ids and the number of streams each song has. The creation_id is each artist's unique identification number."""
+# """Takes the database cursor and connection as inputs. Does not return anything. Fills in the Spotify table with songs and their artist_ids and the number of streams each song has. The creation_id is each artist's unique identification number."""
     #Calls get_spotify_top_tracks_of_2020() to get the songs off of the Spotify "Top Tracks of 2020 USA" playlist.
     song, artist = get_spotify_top_tracks_of_2020()
     spotify_list = get_song_popularity(song, artist)
@@ -62,3 +72,5 @@ def fill_spotify_table(cur, conn):
                 cur.execute("INSERT OR IGNORE INTO Hot100 (creation_id, song, artist_id, weeks_on_chart) VALUES (?, ?, ?, ?)", (creation_id, song, int(artist), weeks))
         count = count + 1
     conn.commit()
+
+get_spotify_top_tracks_of_2020()
