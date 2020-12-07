@@ -1,3 +1,441 @@
-Spotify and YouTube Data Calculations
-=============================================================
+Popularity Scores of Songs on YouTube and Spotify
+================================================================================================
+
+For Shape of You, the Spotify popularity score is 85 and the popularity for the corresponding song's music video on YouTube is 71.87.
+
+For rockstar, the Spotify popularity score is 3 and the popularity for the corresponding song's music video on YouTube is 11.06.
+
+For One Dance, the Spotify popularity score is 3 and the popularity for the corresponding song's music video on YouTube is 0.76.
+
+For Dance Monkey, the Spotify popularity score is 89 and the popularity for the corresponding song's music video on YouTube is 19.7.
+
+For Closer, the Spotify popularity score is 84 and the popularity for the corresponding song's music video on YouTube is 36.4.
+
+For Sunflower - Spider-Man: Into the Spider-Verse, the Spotify popularity score is 86 and the popularity for the corresponding song's music video on YouTube is 18.02.
+
+For Thinking out Loud, the Spotify popularity score is 84 and the popularity for the corresponding song's music video on YouTube is 44.18.
+
+For Señorita, the Spotify popularity score is 85 and the popularity for the corresponding song's music video on YouTube is 16.43.
+
+For Blinding Lights, the Spotify popularity score is 96 and the popularity for the corresponding song's music video on YouTube is 5.06.
+
+For God's Plan, the Spotify popularity score is 5 and the popularity for the corresponding song's music video on YouTube is 17.34.
+
+For Someone You Loved, the Spotify popularity score is 90 and the popularity for the corresponding song's music video on YouTube is 4.79.
+
+For bad guy, the Spotify popularity score is 88 and the popularity for the corresponding song's music video on YouTube is 14.33.
+
+For Say You Won't Let Go, the Spotify popularity score is 86 and the popularity for the corresponding song's music video on YouTube is 16.89.
+
+For Perfect, the Spotify popularity score is 86 and the popularity for the corresponding song's music video on YouTube is 37.37.
+
+For Believer, the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 24.49.
+
+For Havana (feat. Young Thug), the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 13.3.
+
+For Photograph, the Spotify popularity score is 84 and the popularity for the corresponding song's music video on YouTube is 14.75.
+
+For Love Yourself, the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 22.28.
+
+For Starboy, the Spotify popularity score is 4 and the popularity for the corresponding song's music video on YouTube is 25.18.
+
+For New Rules, the Spotify popularity score is 80 and the popularity for the corresponding song's music video on YouTube is 32.4.
+
+For SAD!, the Spotify popularity score is 86 and the popularity for the corresponding song's music video on YouTube is 13.91.
+
+For Lucid Dreams, the Spotify popularity score is 88 and the popularity for the corresponding song's music video on YouTube is 8.6.
+
+For Something Just Like This, the Spotify popularity score is 83 and the popularity for the corresponding song's music video on YouTube is 26.73.
+
+For Lean On (feat. MØ & DJ Snake), the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 41.36.
+
+For Despacito - Remix, the Spotify popularity score is 5 and the popularity for the corresponding song's music video on YouTube is 100.0.
+
+For Thunder, the Spotify popularity score is 3 and the popularity for the corresponding song's music video on YouTube is 24.49.
+
+For Sorry, the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 47.51.
+
+For XO Tour Llif3, the Spotify popularity score is 84 and the popularity for the corresponding song's music video on YouTube is 5.82.
+
+For Don't Let Me Down, the Spotify popularity score is 79 and the popularity for the corresponding song's music video on YouTube is 22.88.
+
+For HUMBLE., the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 10.58.
+
+For Bohemian Rhapsody - Remastered 2011, the Spotify popularity score is 83 and the popularity for the corresponding song's music video on YouTube is 17.38.
+
+For Happier, the Spotify popularity score is 85 and the popularity for the corresponding song's music video on YouTube is 10.18.
+
+For All of Me, the Spotify popularity score is 86 and the popularity for the corresponding song's music video on YouTube is 25.66.
+
+For I Took A Pill In Ibiza - Seeb Remix, the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 18.34.
+
+For Better Now, the Spotify popularity score is 83 and the popularity for the corresponding song's music video on YouTube is 7.82.
+
+For Shallow, the Spotify popularity score is 85 and the popularity for the corresponding song's music video on YouTube is 13.94.
+
+For Let Me Love You, the Spotify popularity score is 3 and the popularity for the corresponding song's music video on YouTube is 30.52.
+
+For Faded, the Spotify popularity score is 74 and the popularity for the corresponding song's music video on YouTube is 41.24.
+
+For Stressed Out, the Spotify popularity score is 83 and the popularity for the corresponding song's music video on YouTube is 30.54.
+
+For 7 rings, the Spotify popularity score is 86 and the popularity for the corresponding song's music video on YouTube is 12.52.
+
+For Congratulations, the Spotify popularity score is 0 and the popularity for the corresponding song's music video on YouTube is 18.05.
+
+For SICKO MODE, the Spotify popularity score is 87 and the popularity for the corresponding song's music video on YouTube is 10.35.
+
+For Take Me To Church, the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 6.62.
+
+For Jocelyn Flores, the Spotify popularity score is 87 and the popularity for the corresponding song's music video on YouTube is 7.83.
+
+For Stay With Me, the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 14.99.
+
+For Treat You Better, the Spotify popularity score is 0 and the popularity for the corresponding song's music video on YouTube is 28.13.
+
+For Let Her Go, the Spotify popularity score is 77 and the popularity for the corresponding song's music video on YouTube is 40.23.
+
+For goosebumps, the Spotify popularity score is 88 and the popularity for the corresponding song's music video on YouTube is 8.11.
+
+For Uptown Funk (feat. Bruno Mars), the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 56.81.
+
+For Unforgettable, the Spotify popularity score is 80 and the popularity for the corresponding song's music video on YouTube is 16.4.
+
+For Cheap Thrills, the Spotify popularity score is 76 and the popularity for the corresponding song's music video on YouTube is 22.0.
+
+For thank u, next, the Spotify popularity score is 84 and the popularity for the corresponding song's music video on YouTube is 12.52.
+
+For Girls Like You (feat. Cardi B), the Spotify popularity score is 76 and the popularity for the corresponding song's music video on YouTube is 40.98.
+
+For I Don't Care (with Justin Bieber), the Spotify popularity score is 83 and the popularity for the corresponding song's music video on YouTube is 6.22.
+
+For Don't Start Now, the Spotify popularity score is 84 and the popularity for the corresponding song's music video on YouTube is 9.01.
+
+For lovely (with Khalid), the Spotify popularity score is 89 and the popularity for the corresponding song's music video on YouTube is 13.41.
+
+For Too Good At Goodbyes, the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 17.29.
+
+For Despacito, the Spotify popularity score is 0 and the popularity for the corresponding song's music video on YouTube is 100.0.
+
+For Circles, the Spotify popularity score is 89 and the popularity for the corresponding song's music video on YouTube is 4.32.
+
+For 7 Years, the Spotify popularity score is 59 and the popularity for the corresponding song's music video on YouTube is 15.0.
+
+For Wake Me Up - Radio Edit, the Spotify popularity score is 3 and the popularity for the corresponding song's music video on YouTube is 28.08.
+
+For Without Me (with Juice WRLD), the Spotify popularity score is 69 and the popularity for the corresponding song's music video on YouTube is 6.61.
+
+For CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS"), the Spotify popularity score is 73 and the popularity for the corresponding song's music video on YouTube is 18.43.
+
+For Cold Water (feat. Justin Bieber & MØ), the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 14.05.
+
+For What Do You Mean?, the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 47.51.
+
+For Stitches, the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 18.25.
+
+For I Like It, the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 26.73.
+
+For That's What I Like, the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 24.88.
+
+For Counting Stars, the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 44.12.
+
+For I Fall Apart, the Spotify popularity score is 82 and the popularity for the corresponding song's music video on YouTube is 10.55.
+
+For Can't Hold Us - feat. Ray Dalton, the Spotify popularity score is 82 and the popularity for the corresponding song's music video on YouTube is 11.75.
+
+For Psycho (feat. Ty Dolla $ign), the Spotify popularity score is 80 and the popularity for the corresponding song's music video on YouTube is 11.49.
+
+For See You Again (feat. Charlie Puth), the Spotify popularity score is 57 and the popularity for the corresponding song's music video on YouTube is 68.42.
+
+For Heathens, the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 22.2.
+
+For One Kiss (with Dua Lipa), the Spotify popularity score is 82 and the popularity for the corresponding song's music video on YouTube is 9.73.
+
+For Cheerleader - Felix Jaehn Remix Radio Edit, the Spotify popularity score is 75 and the popularity for the corresponding song's music video on YouTube is 14.79.
+
+For Moonlight, the Spotify popularity score is 85 and the popularity for the corresponding song's music video on YouTube is 9.51.
+
+For Radioactive, the Spotify popularity score is 3 and the popularity for the corresponding song's music video on YouTube is 17.27.
+
+For Attention, the Spotify popularity score is 7 and the popularity for the corresponding song's music video on YouTube is 16.77.
+
+For Riptide, the Spotify popularity score is 79 and the popularity for the corresponding song's music video on YouTube is 5.95.
+
+For Eastside (with Halsey & Khalid), the Spotify popularity score is 79 and the popularity for the corresponding song's music video on YouTube is 7.92.
+
+For I Like Me Better, the Spotify popularity score is 14 and the popularity for the corresponding song's music video on YouTube is 3.55.
+
+For The Hills, the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 22.32.
+
+For Old Town Road - Remix, the Spotify popularity score is 82 and the popularity for the corresponding song's music video on YouTube is 8.26.
+
+For This Is What You Came For (feat. Rihanna), the Spotify popularity score is 79 and the popularity for the corresponding song's music video on YouTube is 33.99.
+
+For In My Feelings, the Spotify popularity score is 78 and the popularity for the corresponding song's music video on YouTube is 5.12.
+
+For Taki Taki (with Selena Gomez, Ozuna & Cardi B), the Spotify popularity score is 79 and the popularity for the corresponding song's music video on YouTube is 27.88.
+
+For Can't Feel My Face, the Spotify popularity score is 1 and the popularity for the corresponding song's music video on YouTube is 15.9.
+
+For Hello, the Spotify popularity score is 62 and the popularity for the corresponding song's music video on YouTube is 38.78.
+
+For Sugar, the Spotify popularity score is 62 and the popularity for the corresponding song's music video on YouTube is 47.08.
+
+For Demons, the Spotify popularity score is 2 and the popularity for the corresponding song's music video on YouTube is 11.92.
+
+For Work from Home (feat. Ty Dolla $ign), the Spotify popularity score is 78 and the popularity for the corresponding song's music video on YouTube is 33.41.
+
+For We Don't Talk Anymore (feat. Selena Gomez), the Spotify popularity score is 80 and the popularity for the corresponding song's music video on YouTube is 35.98.
+
+For IDGAF, the Spotify popularity score is 80 and the popularity for the corresponding song's music video on YouTube is 9.29.
+
+For Youngblood, the Spotify popularity score is 82 and the popularity for the corresponding song's music video on YouTube is 3.21.
+
+For Chandelier, the Spotify popularity score is 79 and the popularity for the corresponding song's music video on YouTube is 32.69.
+
+For I Don’t Wanna Live Forever (Fifty Shades Darker), the Spotify popularity score is 68 and the popularity for the corresponding song's music video on YouTube is 8.57.
+
+For The Box, the Spotify popularity score is 89 and the popularity for the corresponding song's music video on YouTube is 4.28.
+
+For Ride, the Spotify popularity score is 81 and the popularity for the corresponding song's music video on YouTube is 15.03.
+
+For Mi Gente, the Spotify popularity score is 54 and the popularity for the corresponding song's music video on YouTube is 39.78.
+
+================================================================================================
+Artist Percent of YouTube Music Video Views Corresponding to their Top 100 Spotify Songs
+================================================================================================
+Out of the top 100 Spotify songs, Ed Sheeran's corresponding music videos have 7.80 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Post Malone's corresponding music videos have 2.83 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Drake's corresponding music videos have 1.04 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Tones And I's corresponding music videos have 0.88 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, The Chainsmokers's corresponding music videos have 3.84 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Various Artists's corresponding music videos have 8.72 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Shawn Mendes's corresponding music videos have 2.81 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, The Weeknd's corresponding music videos have 3.06 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Lewis Capaldi's corresponding music videos have 0.21 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Billie Eilish's corresponding music videos have 1.24 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, James Arthur's corresponding music videos have 0.76 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Imagine Dragons's corresponding music videos have 3.49 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Camila Cabello's corresponding music videos have 0.59 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Justin Bieber's corresponding music videos have 5.24 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Dua Lipa's corresponding music videos have 2.27 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, XXXTENTACION's corresponding music videos have 1.40 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Juice WRLD's corresponding music videos have 0.38 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Major Lazer's corresponding music videos have 2.48 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Luis Fonsi's corresponding music videos have 4.47 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Lil Uzi Vert's corresponding music videos have 0.26 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Kendrick Lamar's corresponding music videos have 0.47 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Queen's corresponding music videos have 0.78 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Marshmello's corresponding music videos have 0.46 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, John Legend's corresponding music videos have 1.15 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Mike Posner's corresponding music videos have 0.82 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Lady Gaga's corresponding music videos have 0.62 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, DJ Snake's corresponding music videos have 2.61 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Alan Walker's corresponding music videos have 1.84 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Twenty One Pilots's corresponding music videos have 3.03 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Ariana Grande's corresponding music videos have 1.12 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Travis Scott's corresponding music videos have 0.83 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Hozier's corresponding music videos have 0.30 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Sam Smith's corresponding music videos have 1.44 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Passenger's corresponding music videos have 1.80 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Mark Ronson's corresponding music videos have 2.54 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, French Montana's corresponding music videos have 0.73 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Sia's corresponding music videos have 2.44 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Maroon 5's corresponding music videos have 3.94 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Lukas Graham's corresponding music videos have 0.67 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Avicii's corresponding music videos have 1.26 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Halsey's corresponding music videos have 0.30 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Trolls's corresponding music videos have 0.82 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Cardi B's corresponding music videos have 1.19 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Bruno Mars's corresponding music videos have 1.11 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, OneRepublic's corresponding music videos have 1.97 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Macklemore & Ryan Lewis's corresponding music videos have 0.53 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Calvin Harris's corresponding music videos have 1.95 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, OMI's corresponding music videos have 0.66 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Charlie Puth's corresponding music videos have 2.36 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Vance Joy's corresponding music videos have 0.27 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, benny blanco's corresponding music videos have 0.35 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Lauv's corresponding music videos have 0.16 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Lil Nas X's corresponding music videos have 0.37 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Adele's corresponding music videos have 1.73 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Fifth Harmony's corresponding music videos have 1.49 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, 5 Seconds of Summer's corresponding music videos have 0.14 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, Roddy Ricch's corresponding music videos have 0.19 percent of the total YouTube views for said Spotify songs.
+
+Out of the top 100 Spotify songs, J Balvin's corresponding music videos have 1.78 percent of the total YouTube views for said Spotify songs.
+
+================================================================================================
+Artist Percent of Top 100 Most Streamed Songs on Spotify
+================================================================================================
+Ed Sheeran has written 5% of the top 100 Most Streamed Songs on Spotify.
+
+Post Malone has written 6% of the top 100 Most Streamed Songs on Spotify.
+
+Drake has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+Tones And I has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+The Chainsmokers has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+Various Artists has written 4% of the top 100 Most Streamed Songs on Spotify.
+
+Shawn Mendes has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+The Weeknd has written 4% of the top 100 Most Streamed Songs on Spotify.
+
+Lewis Capaldi has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Billie Eilish has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+James Arthur has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Imagine Dragons has written 4% of the top 100 Most Streamed Songs on Spotify.
+
+Camila Cabello has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Justin Bieber has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+Dua Lipa has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+XXXTENTACION has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+Juice WRLD has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Major Lazer has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Luis Fonsi has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Lil Uzi Vert has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Kendrick Lamar has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Queen has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Marshmello has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+John Legend has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Mike Posner has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Lady Gaga has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+DJ Snake has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Alan Walker has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Twenty One Pilots has written 3% of the top 100 Most Streamed Songs on Spotify.
+
+Ariana Grande has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Travis Scott has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Hozier has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Sam Smith has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Passenger has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Mark Ronson has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+French Montana has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Sia has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Maroon 5 has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Lukas Graham has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Avicii has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Halsey has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Trolls has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Cardi B has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Bruno Mars has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+OneRepublic has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Macklemore & Ryan Lewis has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Calvin Harris has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+OMI has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Charlie Puth has written 2% of the top 100 Most Streamed Songs on Spotify.
+
+Vance Joy has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+benny blanco has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Lauv has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Lil Nas X has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Adele has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Fifth Harmony has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+5 Seconds of Summer has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+Roddy Ricch has written 1% of the top 100 Most Streamed Songs on Spotify.
+
+J Balvin has written 1% of the top 100 Most Streamed Songs on Spotify.
 
