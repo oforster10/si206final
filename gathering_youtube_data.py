@@ -27,7 +27,7 @@ def get_video_ids(cur, conn):
     return video_dict
 
 path = os.path.dirname(os.path.abspath(__file__))
-conn = sqlite3.connect(path+'/'+'spotify.db')
+conn = sqlite3.connect(path+'/'+'music.db')
 cur = conn.cursor()
 
 f = open("music_video_id.html", "w")
