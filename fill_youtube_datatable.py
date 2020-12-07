@@ -74,8 +74,9 @@ def fill_youtube_ids(cur, conn):
     conn.commit()
 
 path = os.path.dirname(os.path.abspath(__file__))
-conn = sqlite3.connect(path+'/'+'spotify.db')
+conn = sqlite3.connect(path+'/'+'music.db')
 cur = conn.cursor()
 set_up_tables(cur, conn)
+# fill_youtube_views(cur, conn)
 fill_youtube_ids(cur, conn)
 
