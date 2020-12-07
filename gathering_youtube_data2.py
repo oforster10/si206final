@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 import json
 
 def read_file():
-    f = open("music_video_id.html", "r")
+    f = open("/Users/orliforster/Desktop/music_video_id.html", "r")
     data = f.read()
     d = json.loads(data)
     return d
@@ -15,17 +15,18 @@ def get_video_views(video_dict):
         page_url = "https://www.youtube.com/watch?v=" + video_dict[song][0]
         session = HTMLSession()
         response = session.get(page_url)
-        response.html.render(sleep=1)
+        response.html.render(timeout=1000000000)
+        response.close()
+        session.close()
         soup = bs(response.html.html, "html.parser")
         open("views.html", "w", encoding='utf8').write(response.html.html)
         try:
             views = soup.find("span", attrs={"class": "view-count"}).text
-            print(views)
+            print(song + "=" + views)
             f.write(views + ",")
             video_dict[song].append(views)
         except:
             video_dict[song].append("no video")
-        
     return video_dict
 
 
