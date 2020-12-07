@@ -64,27 +64,9 @@ def fill_spotify_table(cur, conn):
         count += 1
    
     conn.commit()
-    
-    # #Adds songs to the Spotify list that are not already in it, 25 at a time.
-    # for x in range(25):
-    #     x = count
-    #     #The creation_id is the unique id that identifies a song.
-    #     creation_id = count + 1
-    #     song = spotify_list[count][0]
-    #     streams = spotify_list[count][2]
-    #     x = x + 1
-    #     #In order to save storage space, we are adding in ArtistIds (integers) instead of artists.
-    #     cur.execute('SELECT artist_id, artist FROM ArtistIds')
-    #     artist_ids = cur.fetchall()
-    #     for artist_tup in artist_ids:
-    #         if artist_tup[1] == top_100_list[count][1]:
-    #             artist = artist_tup[0]
-    #             cur.execute("INSERT OR IGNORE INTO Hot100 (creation_id, song, artist_id, weeks_on_chart) VALUES (?, ?, ?, ?)", (creation_id, song, int(artist), weeks))
-    #     count = count + 1
-    # conn.commit()
 
 get_spotify_most_streamed()
 
-cur, conn = setUpDatabase('spotify.db')
+cur, conn = setUpDatabase('music.db')
 set_up_tables(cur, conn)
 fill_spotify_table(cur, conn)
